@@ -1,0 +1,2 @@
+<body>
+<b style="color:red"> be bold</b>

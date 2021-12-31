@@ -1,0 +1,74 @@
+	+++Resep Developer Viscode++++
+
+-----------------------------------------------
+++Kumpulan ektensi web app development viscode 100 lebih++
+https://medium.com/javascript-indonesia-community/ekstensi-visual-studio-code-untuk-javascript-web-app-development-394e6cdfc59
+
+-------------------------------------------------
+
+wajib instal plugin viscode menu pencarian ++++wajib setup+++++
+
+Emmet Keybindings
+Elm Emmet
+Linter
+Path Intellisense
+One Dark Pro                       == ganti thema
+PHP Intelephense                   == khusus php
+PHP intellisense for codeigniter   == khusus codeigniter 
+Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets == khusus bootstrap 
+
+gunakan tekni sniphet
+
+-----------------------------------------------------
+Sublime Text Keymap and Settings Importer
+open in browser
+Live Server
+Auto Rename Tag
+IntelliSense for CSS class names in HTML
+CSS Peek
+indent-rainbow
+Beautify
+One Dark Pro                       == ganti thema
+PHP Intelephense                   == khusus php
+PHP intellisense for codeigniter   == khusus codeigniter 
+Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets == khusus bootstrap 
+
+----------------------------------------------------
+Instal plugin Wajib Di viscode 
+
+open editor visible    ======   buka reprens 
+ganti ukuran pont      ======   font si
+Material Theme 	       ======   ganti thema
+Mayukai Theme	       ======   Ganti Thema
+menu seting            ======   ctrl+,
+mencarri file          ======   tctrl+p   tctrl+b
+
+------------------------------------------------------
+
+instal ekstention
+ESLint      == KONFIGURASI DULU (https://eslint.org/) 
+	       INSTAL NODE.JS (https://nodejs.org/en/)
+
+rapihkan code
+Prettier - Code formatter
+JavaScript (ES6) code snippets
+Better Comments
+REST Client
+es6-string-html
+carbon-now-sh                  (www.carbon.now.sh)
+CodeSnap
+Peacock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
